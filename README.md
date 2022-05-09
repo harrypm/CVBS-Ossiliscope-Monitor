@@ -22,3 +22,4 @@ Links :
 ## Credits
 
 Transcription - Charles Garcia [@cgarcia2097](https://github.com/cgarcia2097)
+Orignal Circuit - Alan Wolfe [PDF link](https://www.qsl.net/w2aew/W2AEW_NTSC_to_scope.pdf)
