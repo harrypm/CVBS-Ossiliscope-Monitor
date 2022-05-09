@@ -1,13 +1,24 @@
-# CVBS-Ossiliscope-Monitor
+# CVBS-Oscilloscope-Monitor
 
-Fabricatable version based on Alan Wolke's Rev 2.0 https://www.qsl.net/w2aew/W2AEW_NTSC_2_Scope_2.pdf
+This repository is a KiCAD transcription of a circuit by Alan Wolfe.
 
-This board takes an composite signal, allowing you to use XY & Z axies of an analouge ossiliscope turning it into an monitor, this is primarlly intended as an fun add on board but can also be used for tinkering.
+## Description
 
-YouTube Video on it:
-https://www.youtube.com/watch?v=yf4kOMSPbM0&
+The following circuit converts a composite signal and splits the signal as such that it can display video on analog-style oscilloscopes. 
 
-There is 2 PCB boards included in this respository, one is a kit verient that uses off shelf though-hole parts and the outher is fully SMD for drag drop and order fabraicaiton at PCBWay or JLCPCB for example.
+## Features
 
-How to order? 
+- LED indicator - Used for monitoring power
+- Power jacks/pads - choice between barrel jack or 3.96mm headers
+- BNC connectors for inputs and outputs
 
+## Additional information
+
+Links :
+
+* [PDF link](https://www.qsl.net/w2aew/W2AEW_NTSC_to_scope.pdf)
+* [Youtube](https://www.youtube.com/watch?v=yf4kOMSPbM0&start=55)
+
+## Credits
+
+Transcription - Charles Garcia [@cgarcia2097](https://github.com/cgarcia2097)
