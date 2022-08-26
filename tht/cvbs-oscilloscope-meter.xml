@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/animeman/Documents/GitHub/CVBS-Ossiliscope-Monitor/tht/cvbs-oscilloscope-meter.kicad_sch</source>
+    <date>Mon 06 Jun 2022 10:54:27 PM EDT</date>
+    <tool>Eeschema 6.0.5</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>cvbs-oscilloscope-meter.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8c51f4c-096f-42e5-9c63-546f05d2fb81</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>22n</value>
+      <footprint>Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>21de7789-04ff-4d9a-b9c2-20e39563445a</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1u</value>
+      <footprint>Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3dce3440-a326-4e57-a6b4-394695f588a5</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1u</value>
+      <footprint>Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1007bf2a-6be3-42ba-bd01-9380b72568c4</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>10n</value>
+      <footprint>Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e069eb05-e696-4d47-ab3c-334a32fffc05</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>10u</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P3.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82c595e5-9571-46c7-ac30-915b34bddc38</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1u</value>
+      <footprint>Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67ee6b68-737f-433e-b0a2-9219faa7f239</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>10u</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P3.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db7ae8b1-bc71-41ef-8335-fdf15fdec60c</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.33u</value>
+      <footprint>Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9007fb50-b3ce-4964-addc-784990278351</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1u</value>
+      <footprint>Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab0d4630-f256-4d25-b79d-2eb1fa67af98</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>10u</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P3.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef9425d5-5df2-4b1f-984f-b9406218f162</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>10u</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P3.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b8948c4-8fc4-44d8-bb88-a550cb867382</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>0.1u</value>
+      <footprint>Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45d10ace-9c5e-4196-9680-923cca0dfccb</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N4148</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="D_Filled" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aacebb7c-244a-42f6-bf1e-253fa9383560</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>1N4148</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="D_Filled" description="Diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ff28314-9812-4ee9-8e94-fcafe3830001</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>Indicator</value>
+      <footprint>LED_THT:LED_D5.0mm</footprint>
+      <libsource lib="Device" part="LED_Filled" description="Light emitting diode, filled shape"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c65a691-c29e-4fdd-b416-dfcf8336d676</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_Coaxial_Power</value>
+      <footprint>Connector_Coaxial:BNC_TEConnectivity_1478035_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_Coaxial_Power" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2260e69-fb3b-4a6a-abd7-e04067abddcd</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_Coaxial_Power</value>
+      <footprint>Connector_Coaxial:BNC_TEConnectivity_1478035_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_Coaxial_Power" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3fc8417-bdf6-4d54-9c2e-3ad45341a216</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_Coaxial_Power</value>
+      <footprint>Connector_Coaxial:BNC_TEConnectivity_1478035_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_Coaxial_Power" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a53fe87a-2114-4271-b616-e08711fe66b6</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_Coaxial_Power</value>
+      <footprint>Connector_Coaxial:BNC_TEConnectivity_1478035_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_Coaxial_Power" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97b61e39-a1f3-453e-b7ca-daa6522a589d</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Barrel_Jack_Switch</value>
+      <footprint>Connector_BarrelJack:BarrelJack_GCT_DCJ200-10-A_Horizontal</footprint>
+      <libsource lib="Connector" part="Barrel_Jack_Switch" description="DC Barrel Jack with an internal switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3141883-4666-4f9d-9ac1-6956f183e0ba</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Molex 3.96mm</value>
+      <footprint>Connector_Molex:Molex_KK-396_A-41791-0002_1x02_P3.96mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ceb5a48-44eb-4943-8b51-f301ff262318</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>22u</value>
+      <footprint>Inductor_THT:L_Axial_L11.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_MECC</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19a21c29-e06f-449a-b7ad-d6280bfe1457</tstamps>
+    </comp>
+    <comp ref="MK1">
+      <value>MountingHole_Pad</value>
+      <footprint>Mounting_Holes:MountingHole_3.2mm_M3_ISO7380</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83178f6b-0c97-48a1-a30a-f28bf27784a2</tstamps>
+    </comp>
+    <comp ref="MK2">
+      <value>MountingHole_Pad</value>
+      <footprint>Mounting_Holes:MountingHole_3.2mm_M3_ISO7380</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b1cdbd6-d775-4870-bec0-18eb298575e5</tstamps>
+    </comp>
+    <comp ref="MK3">
+      <value>MountingHole_Pad</value>
+      <footprint>Mounting_Holes:MountingHole_3.2mm_M3_ISO7380</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55af6217-fe9a-4203-b3ae-b10e43e666f9</tstamps>
+    </comp>
+    <comp ref="MK4">
+      <value>MountingHole_Pad</value>
+      <footprint>Mounting_Holes:MountingHole_3.2mm_M3_ISO7380</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5a0792e-c3bc-4ab7-a7d1-78bbd369fae1</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>2N3906</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/2N3906-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3906" description="-0.2A Ic, -40V Vce, Small Signal PNP Transistor, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6c02538-005c-44e5-93c0-10a5693317f8</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>2N3906</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/2N3906-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3906" description="-0.2A Ic, -40V Vce, Small Signal PNP Transistor, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>464074f6-ea6a-444d-a9e2-fda7843f4ce4</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>2N3904</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d0aca28-7e23-4cd1-86be-a3087fb0ac67</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>2N3904</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d5246337-91c2-43ac-9941-c6524cf27d14</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>2N3904</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d848d87e-50d8-4833-a4bd-56e547f0c138</tstamps>
+    </comp>
+    <comp ref="Q6">
+      <value>2N3904</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6fd71cbf-f824-4435-a935-2ab147dc5d3e</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>6.8k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d972a71-d891-41fc-b150-b3b22d33e446</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>6.8k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f9323d2-0625-4435-bb96-d7fbc83bae8f</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>180</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>566181c2-daad-48fc-8199-84d07e6d294c</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>5.6k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98e84720-8859-4e2f-ac80-e74e2b2946de</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>2.2k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f738c5c4-b4bc-40fd-a5f7-32b1c9b3dde0</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>3.3k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79762cff-e8d1-4d93-8ed0-9677b9c62c64</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>680k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>48335b4c-b145-4a8b-9237-8f7a6b9edbeb</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>68k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a852a37c-1fdd-449b-845c-ce25dd2e7dd7</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>680</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0bae44e-4f60-4de7-aa01-ae5b6c1d2164</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>3.3k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2cbdf966-5916-4df5-b7a6-a2dd05a8e995</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>3.3k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c34eeed-bef0-4fc9-bbb4-9e3769315356</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>2.2k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c53340c-d1fb-47ec-a399-673735c9f87a</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>2.2k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9719c8a9-2c4a-44c0-b315-f4836b3e2791</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>4.7k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a273ee6d-a104-4847-8975-8bf238dbc4d8</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>68k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>698c7360-14d8-4e83-a2fd-1c7937e41f01</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>2.4k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49f288e8-4204-4716-802e-452bf1be69dc</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>1k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Piher_PC-16_Single_Vertical</footprint>
+      <libsource lib="Device" part="R_Potentiometer_US" description="Potentiometer, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f8b7365-9635-4779-b318-d634b1a5feeb</tstamps>
+    </comp>
+    <comp ref="RV2">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Piher_PC-16_Single_Vertical</footprint>
+      <libsource lib="Device" part="R_Potentiometer_US" description="Potentiometer, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d88d089e-d239-4490-9713-6f146ca0f0e6</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LM1881</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm_Socket_LongPads</footprint>
+      <libsource lib="Video" part="LM1881" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a13ab237-8f8d-4e16-8c47-4440653b8534</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>AD8032</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm_Socket_LongPads</footprint>
+      <libsource lib="Device" part="Opamp_Dual" description="Dual operational amplifier"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99ca39ac-7f4f-4ce1-a855-b72d5e9f3f82 f7eb5d61-95cf-495b-952d-c5079869dc8d 694a4a42-524d-4692-94b4-75e53038c33a</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>LM7809_TO220</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF</datasheet>
+      <libsource lib="Regulator_Linear" part="LM7809_TO220" description="Positive 1A 35V Linear Regulator, Fixed Output 9V, TO-220"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cvbs-oscilloscope-meter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>365cc806-f171-4cae-8152-d8ccdd8b4b50</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Barrel_Jack_Switch">
+      <description>DC Barrel Jack with an internal switch</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Barrel_Jack_Switch</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_Coaxial_Power">
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*BNC*</fp>
+        <fp>*SMA*</fp>
+        <fp>*SMB*</fp>
+        <fp>*SMC*</fp>
+        <fp>*Cinch*</fp>
+        <fp>*LEMO*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_Coaxial_Power</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_Small_US">
+      <description>Polarized capacitor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Filled">
+      <description>Diode, filled shape</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Filled</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_Filled">
+      <description>Light emitting diode, filled shape</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Filled</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Opamp_Dual">
+      <description>Dual operational amplifier</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>MSOP*3x3mm*P0.65mm*</fp>
+        <fp>SSOP*2.95x2.8mm*P0.65mm*</fp>
+        <fp>TSSOP*3x3mm*P0.65mm*</fp>
+        <fp>VSSOP*P0.5mm*</fp>
+        <fp>TO?99*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Opamp_Dual</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer_US">
+      <description>Potentiometer, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_US">
+      <description>Resistor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="LM7809_TO220">
+      <description>Positive 1A 35V Linear Regulator, Fixed Output 9V, TO-220</description>
+      <docs>https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF</docs>
+      <footprints>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM7809_TO220</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet">https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VI" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VO" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="2N3904">
+      <description>0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92</description>
+      <docs>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</docs>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N3904</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="2N3906">
+      <description>-0.2A Ic, -40V Vce, Small Signal PNP Transistor, TO-92</description>
+      <docs>https://www.onsemi.com/pub/Collateral/2N3906-D.PDF</docs>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N3906</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/2N3906-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Video" part="LM1881">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM1881</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CSYNC" type="output"/>
+        <pin num="2" name="VIDEO" type="input"/>
+        <pin num="3" name="FRAME" type="output"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="BURST" type="output"/>
+        <pin num="6" name="INT" type="input"/>
+        <pin num="7" name="O/E" type="output"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/app/extensions/Library/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/app/extensions/Library/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/app/extensions/Library/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/app/extensions/Library/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>/app/extensions/Library/symbols//Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>/app/extensions/Library/symbols//Transistor_BJT.kicad_sym</uri>
+    </library>
+    <library logical="Video">
+      <uri>/app/extensions/Library/symbols//Video.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+9V">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q2" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U2" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="U3" pin="3" pinfunction="VO" pintype="power_out"/>
+    </net>
+    <net code="2" name="+VDC">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J5" pin="1" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="3" name="COMP_VIDEO_IN">
+      <node ref="J4" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="4" name="GND">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J5" pin="2" pintype="passive"/>
+      <node ref="J5" pin="3" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="RV1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="RV2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="5" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="Q5" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="Q3" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="Q6" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="INT" pintype="input"/>
+    </net>
+    <net code="9" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="VIDEO" pintype="input"/>
+    </net>
+    <net code="10" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RV1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="Q5" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(Q1-Pad2)">
+      <node ref="Q1" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(Q2-Pad2)">
+      <node ref="Q2" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(Q3-Pad2)">
+      <node ref="Q3" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(Q4-Pad1)">
+      <node ref="Q4" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(Q5-Pad1)">
+      <node ref="Q5" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(Q6-Pad1)">
+      <node ref="Q6" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="FRAME" pintype="output"/>
+    </net>
+    <net code="21" name="Net-(R2-Pad1)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="CSYNC" pintype="output"/>
+    </net>
+    <net code="22" name="Net-(R13-Pad1)">
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="RV1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(R13-Pad2)">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(R15-Pad2)">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="RV2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(RV2-Pad2)">
+      <node ref="RV2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="26" name="Net-(U2-Pad3)">
+      <node ref="U2" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U2" pin="6" pinfunction="-" pintype="input"/>
+      <node ref="U2" pin="7" pintype="output"/>
+    </net>
+    <net code="27" name="X">
+      <node ref="J1" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="Q6" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Y">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="29" name="Z">
+      <node ref="J3" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pintype="output"/>
+    </net>
+    <net code="30" name="unconnected-(MK1-Pad1)">
+      <node ref="MK1" pin="1" pinfunction="1" pintype="input+no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(MK2-Pad1)">
+      <node ref="MK2" pin="1" pinfunction="1" pintype="input+no_connect"/>
+    </net>
+    <net code="32" name="unconnected-(MK3-Pad1)">
+      <node ref="MK3" pin="1" pinfunction="1" pintype="input+no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(MK4-Pad1)">
+      <node ref="MK4" pin="1" pinfunction="1" pintype="input+no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(U1-Pad5)">
+      <node ref="U1" pin="5" pinfunction="BURST" pintype="output+no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(U1-Pad7)">
+      <node ref="U1" pin="7" pinfunction="O/E" pintype="output+no_connect"/>
+    </net>
+  </nets>
+</export>
